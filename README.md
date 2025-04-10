@@ -1,6 +1,6 @@
 # sinkhole_detector
 
-# Intuition
+# Motivation
 대도심에서의 싱크홀 사태 -> 제대로 발표되지 않는 취약 지반 정보 (집값 때문이라는 내부 고발식 정보 유츌이 있었음) -> 싱크홀이 일어나기 좋은 위치를 알리자!
 
 # How will it work?
